@@ -17,6 +17,5 @@ public class Main {
 //  Задача №3
         fullName = "Иванов Семён Семёнович";
         System.out.println("Данные ФИО сотрудника - " + fullName.replace('ё', 'е'));
-
     }
 }
